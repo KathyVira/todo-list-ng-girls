@@ -81,5 +81,5 @@ Your app will be available at https://[your-GH-username].github.io/[repo-name]/
 
 For more information see https://github.com/angular-schule/angular-cli-ghpages.
 
-git add -A && git commit -m "07.03.2020"
-git push -u origin master
+      git add -A && git commit -m "07.03.2020"
+      git push -u origin master
